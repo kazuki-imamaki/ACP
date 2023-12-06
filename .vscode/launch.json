@@ -8,6 +8,13 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "WannaGoBackHome.Main",
+      "projectName": "ACP_fe69f5b5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "Fairness.Main",
       "projectName": "ACP_fe69f5b5"
     },
