@@ -8,6 +8,13 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "Bingo.Main",
+      "projectName": "ACP_fe69f5b5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "Bishop.Main",
       "projectName": "ACP_fe69f5b5"
     },
