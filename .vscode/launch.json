@@ -8,6 +8,13 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "ATCoder.Main",
+      "projectName": "ACP_fe69f5b5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "BreakNumber.Main",
       "projectName": "ACP_fe69f5b5"
     },
