@@ -8,6 +8,13 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "CollatzProblem.Main",
+      "projectName": "ACP_fe69f5b5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "TollGates.Main",
       "projectName": "ACP_fe69f5b5"
     },
