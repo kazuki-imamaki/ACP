@@ -8,6 +8,34 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "NotFound.Main",
+      "projectName": "ACP_fe69f5b5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Coins.Main",
+      "projectName": "ACP_fe69f5b5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "PostalCode.Main",
+      "projectName": "ACP_fe69f5b5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "IncrementDecrement.Main",
+      "projectName": "ACP_fe69f5b5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "Chocolate.Main",
       "projectName": "ACP_fe69f5b5"
     },
